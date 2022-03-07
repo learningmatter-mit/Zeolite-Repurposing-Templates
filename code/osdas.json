@@ -1,0 +1,636 @@
+{
+    "6MR": {
+        "AST": {
+            "C1CC2CCC1CNC2": "1",
+            "CC(C)(C)[N+](C)(C)C": "2",
+            "C1CN2CCN1CC2": "3",
+            "C1N2CN3CN1CN(C2)C3": "4",
+            "NC12CC3CC(CC(C3)C1)C2": "5"
+        },
+        "DOH": {
+            "NC12CC3CC(CC(C3)C1)C2": "1",
+            "CN1C(C)(C)CCCC1(C)C": "2",
+            "CC(C)(C)CC(C)(C)N": "3"
+        },
+        "LIO": {
+            "C[C@H]1CCCN1": "1",
+            "C[P+](C)(C)C": "2",
+            "C[N+](C)(C)CCCCC[N+](C)(C)C": "3"
+        },
+        "LOS": {
+            "C1CC[N+]2(C1)CCCC2": "1",
+            "CCC[C@@H](C)N": "2",
+            "C1N2CN3CN1CN(C2)C3": "3"
+        },
+        "MSO": {
+            "CC[N+]1(CC)CC[C@H]2CC[C@@H]1[C@@H](C)[C@@H]2C": "1",
+            "CC[N+]1([C@@H]2CC(C)(C)C[C@H]2C)CCCC1": "2",
+            "CC[N+]1(CC)CCC[C@@H]2CCCC[C@@H]21": "3"
+        },
+        "NON": {
+            "C[N+](C)(C)C12CCC(CC1)C2": "1",
+            "C[N+](C)(C)C1CCCC1": "2",
+            "C1CC[N+]2(CC1)CCCC2": "3",
+            "C[N+]1(C)C[C@H]2[C@H]3C=C[C@H](C3)[C@H]2C1": "4",
+            "C1CC[N+]2(CC1)CCCCC2": "5"
+        },
+        "RUT": {
+            "C1CCNC1": "1",
+            "N[C@H]1CCCN1": "2",
+            "NCCNCCCNCCN": "3"
+        },
+        "SGT": {
+            "N[C@]12C[C@H]3C[C@H](C[C@H](C3)C1)C2": "1",
+            "C1CC23CCC[N+]2(C1)CCC3": "2",
+            "C[C@@H]1CCCC[N+]1(C)C": "3",
+            "C[N+]1(C)[C@H]2CCC[C@@H]1CCC2": "4",
+            "C[N+]1(C)CC2CCCC1CCC2": "5",
+            "C[C@@H]1CCC[C@@H](C)[N+]1(C)C": "6"
+        },
+        "SOD": {
+            "C1CNCCN1": "1",
+            "C[N+](C)(C)C": "2",
+            "CC(C)(C)N": "3"
+        },
+        "SVV": {
+            "N[C@@H]1CCCN1": "1",
+            "C[C@@H](N)CN": "2",
+            "NC1CCCCC1": "3",
+            "C1CNCCN1": "4"
+        },
+        "TOL": {
+            "C[C@@H]1CCCN1": "1",
+            "C[N+](C)(C)CCCCC[N+](C)(C)C": "2"
+        },
+        "UOZ": {
+            "C[N+](C)(C)CCCCCC[N+](C)(C)C": "1",
+            "NCCNCCCNCCN": "2",
+            "N[C@H]1CCCN1": "3"
+        }
+    },
+    "8MR": {
+        "AEI": {
+            "CC[N+]1(CC)[C@H](C)CCC[C@H]1C": "1",
+            "CC[N+]1(C)C(C)(C)CCCC1(C)C": "2",
+            "CN(C)[P+](C)(N(C)C)N(C)C": "3",
+            "CC[P+](CC)(CC)CC": "4",
+            "CC12CC3C[C@@](C)(C1)C[C@]([NH3+])(C3)C2": "5"
+        },
+        "CHA": {
+            "C[N+](C)(C)[C@]12C[C@H]3C[C@H](C[C@H](C3)C1)C2": "1",
+            "CC[N+](C)(C)C1CCCCC1": "2",
+            "CC[N+](CC)(CC)CC": "3",
+            "C[N+]1(C)C[C@@H]2CC[C@H]1[C@H]1CC[C@@H]2C1": "4",
+            "C[C@H]1CCC[N@+]12CCCC(C)(C)C2": "5",
+            "C[N+]1(C)C[C@H]2CC[C@H](CC2)C1": "6"
+        },
+        "ITE": {
+            "C[N+]1(C)CCC[C@@H]2CCCC[C@@H]21": "1",
+            "C[C@H]1C[C@H](C)C[N+](C)(C)C1": "2",
+            "C[C@@H]1[C@@H](C)[C@]2(C)CC[C@H]1[N+](C)(C)CC2": "3",
+            "C[C@H]1CCC[C@@H](C)[N+]12CCC[C@@H]2C": "4"
+        },
+        "LEV": {
+            "CC[N+](C)(C)CC": "1",
+            "C1CCCNCC1": "2",
+            "C[N+]1(C)CCCCC1": "3",
+            "C1N2CN3CN1CN(C2)C3": "4"
+        },
+        "RTH": {
+            "Cc1c(C)[n+](C)c(C)n1C": "1",
+            "Cc1n(C)cc[n+]1C": "2",
+            "C[C@H]1C[C@@H](C)C[N+](C)(C)C1": "3",
+            "C[C@H]1CCC[C@@H](C)[N+]12CCC[C@@H]2C": "4",
+            "CC1(C)CCCC(C)(C)[N+]12CCCCC2": "5"
+        },
+        "AFX": {
+            "C[N+]1(CCCCC[N+]2(C)CCCCC2)CCCCC1": "1",
+            "C(CC[N+]12CCN(CC1)CC2)C[N+]12CCN(CC1)CC2": "2",
+            "CC[N+](CC)(CC)CCCC[N+](CC)(CC)CC": "3",
+            "CC[N+]1(CC)C[C@H]2[C@H]3C=C[C@H]([C@@H]4C[N+](CC)(CC)C[C@@H]43)[C@H]2C1": "4",
+            "C[N+]1(CCCCCC[N+]2(C)CCCC2)CCCC1": "5"
+        },
+        "EEI": {
+            "C(CC[N+]12CCN(CC1)CC2)C[N+]12CCN(CC1)CC2": "1",
+            "C[N+]1(C)C[C@@H]2[C@@H](C1)[C@@H]1C=C[C@H]2[C@@H]2[C@H]1[C@@H]1C[N+](C)(C)C[C@@H]12": "2",
+            "C[N+]1(CCCC[N+]2(C)CCCC2)CCCC1": "3"
+        },
+        "ERI": {
+            "C[N+](C)(C)CCCCC[N+](C)(C)C": "1",
+            "C[N+]1(CCC[N+]2(C)CCCC2)CCCC1": "2",
+            "C[N+]1(C)C[C@H]2[C@H]3C=C[C@H]([C@@H]4[C@@H]5C[N+](C)(C)C[C@@H]5[C@H]34)[C@H]2C1": "3",
+            "C[N+]12CCCC[C@@H]1[C@H]1C[C@@H](C2)[C@@H]2CCCCN2C1": "4"
+        },
+        "IHW": {
+            "C[N+]1(C)CC2C(C1)C1C[N+](C)(C)CC21": "1",
+            "C[N+]1(C)CCN(C2CCCCC2)CC1": "2",
+            "C1CC[N+]2(CC1)CC[N+]1(CCCCC1)CC2": "3",
+            "C[C@H](O)[C@H](C)[N+]12CC[N+]([C@@H](C)[C@H](C)O)(CC1)CC2": "4"
+        },
+        "SAT": {
+            "N[C@H]1CCCC[C@H]1N": "1",
+            "C[N+]1(C)CCC([N+]2(C)CCCC2)CC1": "2",
+            "CCC[N@+]1(C)CC[C@@H]([N+]2(C)CCCC2)CC1": "3"
+        },
+        "SFW": {
+            "CC[N+]1([C@@H]2CC(C)(C)C[C@H]2C)CCCC1": "1",
+            "CC[N+]1([C@H]2C[C@@H](C)CC(C)(C)C2)CCCC1": "2",
+            "CC1CCC[N@@+]12CCCC(C)(C)C2": "3",
+            "CC(C)[N@+]1(C)CCCC(C)(C)C1": "4"
+        },
+        "SWY": {
+            "C(CC[N+]12CCC(CC1)CC2)C[N+]12CCC(CC1)CC2": "1",
+            "C(CCC[N+]12CCN(CC1)CC2)CC[N+]12CCN(CC1)CC2": "2",
+            "CC(C)[N@+]1(C)CC[C@H](CCC[C@H]2CC[N@@+](C)(C(C)C)CC2)CC1": "3",
+            "CC[N+]1(C)CCC(CCCC2CC[N+](C)(CC)CC2)CC1": "4",
+            "C[N+]1(C)C[C@@H]2[C@@H]3C=C[C@@H](CC3)[C@H]2C1": "5"
+        },
+        "AFV": {
+            "CC[N+](C)(C)CC": "1",
+            "NC1CCCCC1": "2",
+            "CC(C)(N)CN": "3"
+        },
+        "AVE": {
+            "C[N+]12CC[N+](C)(CC1)CC2": "1",
+            "C1CC[N+]2(C1)CCCC2": "2"
+        },
+        "LTA": {
+            "C1COCCN2CCOCCOCCN(CCO1)CCOCCOCC2": "1",
+            "C[N@+]12CCCCCC[N@@+]3(C)CC[C@@H](CCC[C@H](CC1)CC2)CC3": "2",
+            "C[C@@H](CC[C@H](C)[N+]1(C)CCCCC1)[N+]1(C)CCCCC1": "3",
+            "CCCC[N@+]1(C2CCCCCCC2)CC[C@H](C)C1": "4"
+        },
+        "KFI": {
+            "C1COCCN2CCOCCOCCN(CCO1)CCOCCOCC2": "1",
+            "C[N@+]12CCCCCC[N@@+]3(C)CC[C@@H](CCC[C@H](CC1)CC2)CC3": "2"
+        },
+        "RHO": {
+            "C1COCCN2CCOCCOCCN(CCO1)CCOCCOCC2": "1",
+            "C1COCCOCCOCCOCCOCCOCCO1": "2"
+        },
+        "UFI": {
+            "C1COCCN2CCOCCOCCN(CCO1)CCOCCOCC2": "1",
+            "C[N+](C)(C)C": "2"
+        },
+        "MER": {
+            "CC[N+](CC)(CC)CC": "1",
+            "C1CC[C@H]2NCC[C@@H]2C1": "2",
+            "C[C@H]1CCCC[C@@H]1N": "3"
+        },
+        "AVL": {
+            "C[N+]1(C)CCC([N+]2(C)CCCC2)CC1": "1",
+            "C[C@@H]1CC[N@@+](C)(C2CCCCCCC2)C1": "2",
+            "C[N+]1(C)CC2C(C1)C1C[N+](C)(C)CC21": "3",
+            "CC[N+]1(C2CCCCCCC2)CCCC1": "4"
+        },
+        "SAV": {
+            "CN1CCCN(C)CCN(C)CCCN(C)CC1": "1",
+            "CC(C)(C)[P+](C)(C(C)(C)C)C(C)(C)C": "2",
+            "C[C@H]1CCC[C@@H](C)[N+]12CCC[C@H]2C": "3"
+        },
+        "AWW": {
+            "C1N2CN3CN1CN(C2)C3": "1",
+            "N[C@]12C[C@H]3C[C@H](C[C@H](C3)C1)C2": "2",
+            "C1CC2CCC1CNC2": "3",
+        },
+        "ESV": {
+            "[NH3+][C@@H]1CCCC[C@H]1[NH3+]": "1",
+            "NC12CCC(CC1)C2": "2",
+            "C1CC2CCC1CNC2": "3"
+        },
+        "IRN": {
+            "C[N@@+]12CCCC[C@@H]1[C@H]1C[C@@H](C2)[C@H]2CCCCN2C1": "1",
+            "CC1(C)CCCC(C)(C)[N+]12CCCCC2": "2",
+            "CC(C)(C)[P+](C)(C(C)(C)C)C(C)(C)C": "3"
+        },
+        "MTF": {
+            "C1CCCNCC1": "1",
+            "N[C@@H]1CCCC[C@H]1N": "2",
+            "N[C@H]1CC[C@@H](N)CC1": "3",
+            "C1CC[C@H]2NCC[C@H]2C1": "4"
+        },
+        "RTE": {
+            "N[C@@H]1C[C@H]2CC[C@@H]1C2": "1",
+            "[NH3+][C@H]1CCCC[C@@H]1[NH3+]": "2",
+            "CC(C)(C)[N+](C)(C)C": "3",
+            "C1N2CN3CN1CN(C2)C3": "4"
+        },
+        "SAS": {
+            "CC(C)(C)[P+](C)(C(C)(C)C)C(C)(C)C": "1",
+            "CC[N@+]1(C)C[C@@H]2CC[C@](C)(C1)C2(C)C": "2",
+            "C[N+]1(C)C[C@H]2CCC[C@@H]1[C@@H]1CC[C@H]2C1": "3",
+            "C[N@@+]12CCCC[C@@H]1[C@H]1C[C@@H](C2)[C@H]2CCCCN2C1": "4",
+            "CC(C)[P+](C(C)C)(C(C)C)C(C)C": "5"
+        }
+    },
+    "10MR": {
+        "FER": {
+            "NC1CCCCC1": "1",
+            "C1CNCCN1": "2",
+            "C1CCCNCC1": "3",
+            "NCCNCCO": "4",
+            "C[C@@H]1CCCN1": "5"
+        },
+        "MEL": {
+            "CCCC[N+](CCCC)(CCCC)CCCC": "1",
+            "CCC[N+](CCC)(CCC)CCC": "2",
+            "CC[N+]1(CC)C[C@@H](C)C[C@@H](C)C1": "3",
+            "CCCC[N+]1(C)CCCCCC1": "4",
+            "C[C@H]1C[C@@H](C)C[N+]2(CCCC2)C1": "5"
+        },
+        "MFI": {
+            "CCC[N+](CCC)(CCC)CCC": "1",
+            "NCCCCCCN": "2",
+            "C[N+](CCO)(CCO)CCO": "3"
+        },
+        "MWW": {
+            "C1CCCNCC1": "1",
+            "C[N+](C)(C)CCCCCCCCC[N+](C)(C)C": "2",
+            "C(CCCC[N+]12CCC(CC1)CC2)CCC[N+]12CCC(CC1)CC2": "3"
+        },
+        "CSV": {
+            "CCc1n(C)cc[n+]1C": "1",
+            "CC[N@+]12CCCC[C@H]1C[C@@H]1C[C@H]2C[C@@H]2CCCCN21": "2",
+            "C[N@+]12CCCC[C@@H]1[C@@H]1C[C@H](C2)[C@@H]2CCCCN2C1": "3",
+            "CC[N+]1([C@H]2C[C@H](C)CC(C)(C)C2)CCCC1": "4"
+        },
+        "EWS": {
+            "C[N+](C)(C)CCCCCCCCCC[N+](C)(C)C": "1",
+            "C[N+]1(CCCCCC[N+]2(C)CCCCC2)CCCCC1": "2",
+            "CC(C)C[N+]1(C)CCCC1": "3"
+        },
+        "IFW": {
+            "CCC[N+]1(CCC)CCC([N+]2(CCC)CCCC2)CC1": "1",
+            "C[N+]1(C)C[C@H]2CCC[C@@H]1[C@H]1CC[C@@H]2C1": "2",
+            "C[N+]1(C)C[C@]23CCCC[C@@]2(C1)[C@@H]1C=C[C@H]3C1": "3",
+            "CC(C)[P+](C)(C(C)C)C(C)C": "4"
+        },
+        "ITH": {
+            "C[N+](C)(C)CCCCCC[N+](C)(C)C": "1",
+            "CCCC[N+](CCCC)(CCCC)CCCC": "2",
+            "CCN(CC)CCCCCN(CC)CC": "3"
+        },
+        "SFF": {
+            "CC[N+]1(CC)[C@@H](C)CCC[C@H]1C": "1",
+            "CC[N+]1(CC)C[C@H](C)CC[C@@H]1C": "2",
+            "C[C@@H]1CCC[C@@H](C)[N+]12CCC[C@H]2C": "3",
+            "C[N+]1(C)C[C@H]2CCC[C@@H]1[C@@H]1CC[C@H]2C1": "4"
+        },
+        "STF": {
+            "C[N+]1(C)C[C@@H]2CC[C@H]1[C@@H]1CC[C@H]2O1": "1",
+            "C[N+]1(C)C[C@@H]2CCC[C@H]1[C@H]1CC[C@@H]2C1": "2",
+            "C[N+]1(C)C[C@H]2CC[C@@H]1[C@H]1CC[C@@H]2C1": "3",
+            "CC[N+]1(C)C(C)(C)CCCC1(C)C": "4",
+            "C[C@H]1CCCC[N@@+]12CCC[C@@H]2C": "5"
+        },
+        "AEL": {
+            "CCCCNCCCC": "1",
+            "CC(C)NC(C)C": "2",
+            "CCCCCCC[N+](C)(C)C": "3"
+        },
+        "AFO": {
+            "CC(C)NC(C)C": "1",
+            "NC1CCC(N)CC1": "2"
+        },
+        "EUO": {
+            "CC(C)C[N+]1(C)C[C@H]2CCCCCC[C@@H]2C1": "1",
+            "C[C@H]1CC[N@+](C)(C2CCCCCCC2)C1": "2",
+            "C[N+]1(C)C[C@H]2[C@H]3C=C[C@H]([C@@H]4[C@@H]5C[N+](C)(C)C[C@@H]5[C@H]34)[C@H]2C1": "3",
+            "C[N+]1(CCCC[N+]2(C)CCCC2)CCCC1": "4"
+        },
+        "LAU": {
+            "C[n+]1cc[nH]c1": "1",
+            "NC1CCC(N)CC1": "2",
+            "C1CC[C@H]2NCC[C@@H]2C1": "3"
+        },
+        "MTT": {
+            "CC(C)n1cc[n+](C(C)C)c1": "1",
+            "CN(C)CCCN(C)C": "2",
+            "NCCCCN": "3"
+        },
+        "TON": {
+            "NCCCCCCN": "1",
+            "NCCCCCCCCN": "2",
+            "CCCCC[N+](C)(C)CCCN(C)C": "3",
+            "CCCCCC[N+](C)(C)C": "4"
+        },
+        "CGS": {
+            "CCN(CC)CC": "1",
+            "NC12CCC(CC1)C2": "2",
+            "CC(C)(N)CN": "3"
+        },
+        "ITR": {
+            "C[P+](C)(C)CCC[P+](C)(C)C": "1",
+            "CCC[N+](CCC)(CCC)CCC": "2",
+            "CCCCCC[N+]12CCC(CC1)CC2": "3"
+        },
+        "MFS": {
+            "NC12CC3CC(CC(C3)C1)C2": "1",
+            "C1CC23CCC[N+]2(C1)CCC3": "2",
+            "C[C@@H]1C[N+]2(C)CCN1CC2": "3"
+        },
+        "SZR": {
+            "OCCN(CCO)CCO": "1",
+            "CC[N+](C)(CC)CC": "2"
+        },
+        "MRE": {
+            "NCCCCCCN": "1",
+            "CC(C)(C)CC(C)(C)N": "2",
+            "CC[C@H](N)CCCN": "3",
+            "CC(C)NC(C)C": "4"
+        },
+        "UOE": {
+            "CN(C)c1ccncc1": "1",
+            "CC(C)NCCN": "2",
+            "OCCN(CCO)CCO": "3"
+        },
+        "PWW": {
+            "Cc1cc(C)[n+](C)n1C": "1",
+            "C(CC1CCNCC1)CC1CCNCC1": "2",
+            "NCCNCCN": "3"
+        },
+        "SFG": {
+            "CCC[N+]1(C2CCCCCCC2)CCCC1": "1",
+            "C(CCC[N+]12CCN(CC1)CC2)CC[N+]12CCN(CC1)CC2": "2",
+            "C[N+](C)(C)CCCCCCCCCC[N+](C)(C)C": "3",
+            "CC[N@+]1(C)CC[C@H](CCC[C@H]2CC[N@+](C)(CC)CC2)CC1": "4"
+        },
+        "STI": {
+            "C[N+]1(CCCC[N+]2(C)CCCC2)CCCC1": "1",
+            "C(CC1CCNCC1)CC1CCNCC1": "2",
+            "CCCCCC[N+]12CCC(CC1)CC2": "3"
+        },
+        "STW": {
+            "CCn1cc[n+](C)c1": "1",
+            "NCCCN1CCN(CCCN)CC1": "2",
+            "CN(C)CCCNCCCN(C)C": "3"
+        }
+    },
+    "12MR": {
+        "BEA": {
+            "C[N+](C)(C)C1CC2CC([N+](C)(C)C)CC2C1": "1",
+            "C[N@@+]12CCCC[C@H]1[C@@H]1C[C@@H](C2)[C@@H]2CCCCN2C1": "2",
+            "CCC[N@+]1(C)CC[C@H]([N+]2(C)CCCC2)CC1":"3",
+            "C[C@H]1C[N@+]2(CCCCC2)CC[N@@+]12CCCCC2": "4",
+            "C[N+]1(CCC[N+]2(C)CCCC2)CCCC1": "5",
+            "C[C@H]1CC[N@@+](C)(C2CCCCCCC2)C1": "6"
+        },
+        "BEC": {
+            "C[N+]1(CCCC[N+]2(C)CCCCC2)CCCCC1": "1",
+            "C[N+]1(C)C[C@@H]2[C@@H](C1)[C@@H]1C=C[C@H]2[C@H]2[C@H]3C[N+](C)(C)C[C@H]3[C@H]12": "2",
+            "C[N+]1(CCCCC[N+]2(C)CCCC2)CCCCC1": "3",
+            "C[N+]1(CCCCCC[N+]2(C)CCCC2)CCCC1": "4"
+        },
+        "ISV": {
+            "C(CC[N+]12CCC(CC1)CC2)C[N+]12CCC(CC1)CC2": "1",
+            "C[N+]1(C)C[C@H]2[C@H]3C=C[C@@H]([C@@H]2C1)[C@@H]1[C@H]3[C@@H]2C[N+](C)(C)C[C@@H]21": "2",
+            "CCC[N+]1(C)CCC([N+]2(C)CCCC2)CC1": "3",
+            "C[C@@H](CC[C@H](C)[N+]1(C)CCCCC1)[N+]1(C)CCCCC1": "4"
+        },
+        "GME": {
+            "CCCC[N+]1(C2CCCCCCC2)CCCC1": "1",
+            "CC[N+]1([C@@H]2C[C@H](C)CC(C)(C)C2)CCCC1": "2",
+            "CC[N+](CC)(CC)CCCC[N+](CC)(CC)CC": "3"
+        },
+        "LTL": {
+            "C[N+]12CCCCCC[N+]3(C)CCC(CCCC(CC1)CC2)CC3": "1",
+            "C(CCCC[N+]12CCN(CC1)CC2)CCC[N+]12CCN(CC1)CC2": "2",
+            "CC(C)[N@+]1(C)CC[C@@H](CCC[C@H]2CC[N@@+](C)(C(C)C)CC2)CC1": "3",
+            "CCC[N+]1(C)CCC(CCCC2CC[N+](C)(CCC)CC2)CC1": "4"
+        },
+        "MOR": {
+            "C[C@H]1C[N+]2(CCCCCCCC[N+]34CCN(CC3)[C@@H](C)C4)CCN1CC2": "1",
+            "CC[N+]1(CC)C[C@H]2C3C(C)=CC(C)([C@H]2C1)[C@@H]1C[N+](CC)(CC)C[C@H]31": "2",
+            "C[C@H]1C[N+]2(CCCCCC[N+]34CCN(CC3)[C@H](C)C4)CCN1CC2": "3",
+            "CC(C)[N@+]1(C)CC[C@H](CCC[C@H]2CC[N@@+](C)(C(C)C)CC2)CC1": "4"
+        },
+        "MTW": {
+            "C[C@H]1C[N@@+]2(CCCC[N@+]34CCN(C[C@H]3C)[C@H](C)C4)CCN1C[C@@H]2C": "1",
+            "C[N+]1(C2CC3CC([N+]4(C)CCCCC4)CC3C2)CCCCC1": "2",
+            "CC[N+]1(CC)C[C@H]2C3C=CC([C@@H]2C1)[C@H]1C[N+](CC)(CC)C[C@@H]31": "3",
+            "C[C@H]1C[N+]2(CCCCC[N+]3(C)CCCCC3)CCC1CC2": "4",
+            "CC[N+]1(CC)C[C@H]2[C@H]3C=C[C@H]([C@@H]4C[N+](CC)(CC)C[C@@H]43)[C@H]2C1": "5"
+        },
+        "IWS": {
+            "C[N@+]12CCCC[C@H]1[C@@H]1C[C@@H](C2)[C@@H]2CCCCN2C1": "1",
+            "C[C@H]1CCC[N@@+]12CCCC(C)(C)C2": "2",
+            "C[N+](C)(C)[C@H]1[C@H]2CC[C@@H]1[C@@H]1CCC[C@H]21": "3",
+            "C[N+]1(C)C[C@@H]2[C@@H]3C=C[C@@H](CC3)[C@H]2C1": "4"
+        },
+        "MEI": {
+            "CC(C)[C@]12C=C[C@](C)(CC1)[C@@H]1C[N+](C)(C)C[C@H]12": "1",
+            "C[N+](C)(C)C1CC23CCCC2(C1)CC([N+](C)(C)C)C3": "2",
+            "CCCC[N+]1(C2CCCCCCC2)CCCC1": "3",
+            "CCCC[N@@+]1(C2CCCCCCC2)CC[C@@H](C)C1": "4"
+        },
+        "MOZ": {
+            "C[N+]1(C)CC[C@@H]2CCC[C@@H]2C1": "1",
+            "C[C@H]1C[N@@+]2(C)CCN1C[C@@H]2C": "2",
+            "C[N+](C)(CCO)CCO": "3"
+        },
+        "OFF": { 
+            "C[N+](C)(C)CCCCCCC[N+](C)(C)C": "1"
+        },
+        "SSF": {
+            "CC[C@H](C)C[N+]1(C)CCC(CCCC2CC[N+](C)(C[C@@H](C)CC)CC2)CC1": "1",
+            "C[N+]1(CC2CCCCC2)CCC(CCCC2CC[N+](C)(CC3CCCCC3)CC2)CC1": "2"
+        },
+        "AFI": {
+            "C[C@H]1CCC[C@@H](C)[N+]12CCCCC2": "1",
+            "C[C@H]1CCC[N@+]12CCC[C@@H]1CCCC[C@@H]12": "2",
+            "C[C@H]1CCC[C@H]([N+]2(C)CCCC2)C1": "3",
+            "CC[N+]1(CC)CCCC[C@H]2CCCC[C@H]21": "4",
+            "CC[N+]1(C2CCCCCCC2)CCCC1": "5"
+        },
+        "SFE": {
+            "C1CN(N2CCNCC2)CCN1": "1", 
+            "C[N+]1(C)CC[C@H]2CCC[C@H]2C1": "2"
+        },
+        "ATS": { 
+            "C1CC[C@H]2NCC[C@@H]2C1": "1",
+            "CCCCNCCCC": "2",
+            "CC(C)CNCC(C)C": "3",
+            "NCCCCCCCCN": "4",
+            "NCCN1CCNCC1": "5"
+        },
+        "SSY": {
+            "C1CC[N+]2(CC1)CC[N+]1(CCCCC1)CC2": "1",
+            "CC1(C)[C@@H]2CC[C@H](C[N+](C)(C)C)[C@H]1C2": "2",
+            "C1CC[C@@H]2CCN[C@H]2C1": "3" 
+        },
+        "MAZ": {
+            "C[N+]1(C)C[C@@H]2CCC[C@H]1[C@H]1CC[C@@H]2C1": "1"
+        },
+        "SAF": {
+            "C[C@H]1CCC[C@H](C)[N+]12CCC[C@@H]2C": "1",
+            "C[N+]1(C)C[C@H]2CCCCCC[C@H]2C1": "2",
+            "CC1(C)C[C@H]2C[C@@](C)(C1)C[N+]21CCCC1": "3",
+            "C[N+](C)(C)C1[C@H]2CC[C@@H]1[C@@H]1CCC[C@H]21": "4",
+            "CC[N+]1(C2CCCCCCC2)CCCC1": "5"
+        },
+        "STO": {
+            "CCCC[N+]1(C)CCCCCC1": "1",
+            "CC[N+]1([C@@H]2CC(C)(C)C[C@H]2C)CCCC1": "2",
+            "NCCCN1CCN(CCCN)CC1": "3", 
+            "CC[N+]1(CC)C[C@@H](C)C[C@H](C)C1": "4",
+            "CC[C@H]1CCCC[N@+]12CCC[C@@H]2C": "5"
+        },
+        "AFS": {
+            "C(CC[N+]12CCC(CC1)CC2)C[N+]12CCC(CC1)CC2": "1",
+            "C[N@+]12CCCCCC[N@@+]3(C)CC[C@@H](CCC[C@H](CC1)CC2)CC3": "2",
+            "CC[N+]1(CC)C[C@H]2C3C(C)=CC(C)([C@H]2C1)[C@H]1C[N+](CC)(CC)C[C@@H]31": "3",
+            "C1CC[N+]2(CC1)CCCC2": "4"
+        },
+        "AFY": {
+            "CC[N+](C)(CC)CCCCCC[N+](C)(CC)CC": "1",
+            "CC(C)N(CCCCCN(C(C)C)C(C)C)C(C)C": "2",
+            "CCCC[N@+]1(C2CCCCCCC2)CC[C@@H](C)C1": "3",
+            "CCCC[N+](CCCC)(CCCC)CCCC": "4",
+            "[NH3+]CC[NH2+]CC[NH3+]": "5"
+        },
+        "ATS": {
+            "C1CC[C@H]2NCC[C@@H]2C1": "1", 
+            "CC(C)CNCC(C)C": "2", 
+            "CCCCNCCCC": "3", 
+            "NCCCCCCCCN": "4"
+        },
+        "BPH": {
+           "C1CCNCC1": "1",
+            "C[C@H]1CCCC[C@@H]1N": "2",
+            "C[C@H]1C[N@+]2(CCCC[N@+]34CCN(C[C@H]3C)[C@@H](C)C4)CCN1C[C@H]2C": "3", 
+            "N[C@@H]1C[C@H]2CC[C@@H]1C2": "4",
+            "C(CCCC[N+]12CCC(CC1)CC2)CCC[N+]12CCC(CC1)CC2": "5"
+        },
+        "DFO": {
+           "C[C@H]1CCCC[C@@H]1N": "1", 
+            "C1CC[C@@H]2CCN[C@H]2C1": "2", 
+            "CCN1CCNCC1": "3", 
+            "N[C@@H]1C[C@H]2CC[C@@H]1C2": "4", 
+            "N[C@H]1CC[C@H](N)CC1": "5" 
+        },
+        "EZT": {
+            "C1CCCNCCC1": "1", 
+            "C[N+]1(C)C[C@H]2[C@H]3C=C[C@H](C3)[C@H]2C1": "2", 
+            "CN(C)CCN(C)C": "3"
+        },
+        "SFO": {
+            "C[C@H]1CC[N@+]2(CCC[C@@H]3CCCC[C@H]32)CC1": "1", 
+            "CCCCCC[N+]12CCC(CC1)CC2": "2", 
+            "CC[N@+]12CCCC[C@H]1C[C@@H]1C[C@H]2C[C@H]2CCCCN21": "3", 
+            "C1CC[N+]2(CC1)CC[C@@H]1CCCC[C@H]1C2": "4", 
+            "C1CN2CCN1CC2": "5", 
+            "C[N@@+]12CCCC[C@H]1[C@H]1C[C@H](C2)[C@@H]2CCCCN2C1": "6"
+        },
+        "USI": {
+           "C[N@+]12CCCC[C@@H]1[C@H]1C[C@@H](C2)[C@@H]2CCCCN2C1": "1", 
+            "CC(C)[C@@]12C=C[C@@](C)(CC1)[C@H]1C[N+](C)(C)C[C@@H]12": "2", 
+            "C[N+](C)(C)CCCCCCCCC[N+](C)(C)C": "3", 
+            "CN1CCCN(C)CCN(C)CCCN(C)CC1": "4"
+        },
+        "BOG": {
+            "CC[C@@H](C)C[N+]1(C)CCC(CCCC2CC[N+](C)(C[C@H](C)CC)CC2)CC1": "1", 
+            "C(CCC[N+]12CCC(CC1)CC2)CC[N+]12CCC(CC1)CC2": "2", 
+            "CCCC[N@@+]1(C2CCCCCCC2)CC[C@@H](C)C1": "3"
+        },
+        "CON": {
+            "C[N+](C)(C)CCC(CC[N+](C)(C)C)CC[N+](C)(C)C": "1", 
+            "C[C@H]1C[C@H](C)C[N+]2(CC[N+]3(CC2)C[C@H](C)C[C@@H](C)C3)C1": "2", 
+            "C1CCC[N+]2(CC1)CCCCCC2": "3",
+            "C[N+](C)(C)[C@]12C[C@H]3C[C@H](C[C@H](C3)C1)C2": "4"
+        },
+        "EON": {
+            "CCNCC": "1", 
+            "CCCCN(CCCC)CCCC": "2", 
+            "C[C@H]1C[C@@H]2CC[C@@]1(C)CC[N+]2(C)C": "3"
+        },
+        "ITG": {
+           "NCC1CCNCC1": "1",
+            "C(CC[N+]12CCC(CC1)CC2)C[N+]12CCC(CC1)CC2": "2", 
+            "C1CC[C@H]2NCC[C@@H]2C1": "3", 
+            "CCC[N+]1(CCC)CCC([N+]2(CCC)CCCC2)CC1": "4"
+        },
+        "IWR": {
+            "C[C@H]1C[N+]2(CCCC[N+]3(C)CCCCC3)CCC1CC2": "1", 
+            "C(CC[N+]12CCC(CC1)CC2)CC[N+]12CCC(CC1)CC2": "2", 
+            "CC[N+]1(CC)C[C@H]2C3C(C)=CC(C)([C@H]2C1)[C@@H]1C[N+](CC)(CC)C[C@H]31": "3"
+        },
+        "IWW": {
+           "C1CC[N+]2(CC1)CCCC2": "1",
+            "C1CCC2(C1)CCC[NH2+]2": "2",
+            "CC[N+]1(C)CCNCC1": "3", 
+            "N[C@H]1CC[C@H](N)CC1": "4", 
+            "CCC[N@+]1(C)CC[C@H](CCC[C@H]2CC[N@@+](C)(CCC)CC2)CC1": "5"
+        },
+        "POS": {
+            "CCCCCCC[N+](C)(C)C": "1", 
+            "C[N+](C)(C)CCC(CC[N+](C)(C)C)CC[N+](C)(C)C": "2", 
+            "C1CC[C@H]2NCC[C@@H]2C1": "3", 
+            "C1CCN(C2CCNCC2)CC1": "4"
+        },
+        "SAO": {
+            "C[N+](C)(C)CCCCCCC[N+](C)(C)C": "1", 
+            "C[C@H]1CCCC[N@@+]12CCC[C@H]2C": "2", 
+            "C[N+](C)(CC1CCCCC1)CC1CCCCC1": "3", 
+            "C(CCCC[N+]12CCN(CC1)CC2)CCC[N+]12CCN(CC1)CC2": "4", 
+            "C[N@+]12CCCC[C@@H]1[C@H]1C[C@H](C2)[C@H]2CCCCN2C1": "5", 
+            "C[N+]1(C)C[C@H]2[C@H]3[C@H]4C=C[C@H]([C@H]5C[N+](C)(C)C[C@H]45)[C@H]3[C@H]2C1": "6"
+        }
+    },
+    "14MR": {
+        "CFI": {
+            "C1CC[C@H]2NCC[C@@H]2C1": "1", 
+            "NC1CCC(N)CC1": "2"
+        },
+        "AET": {
+            "CC[N@+]12CCCC[C@@H]1C[C@@H]1C[C@H]2C[C@@H]2CCCCN21": "1", 
+            "CC[N+]1(CC)C[C@H]2C3C=CC([C@@H]2C1)[C@@H]1C[N+](CC)(CC)C[C@@H]31": "2", 
+            "CC[N+](CC)(CC)CCCC[N+](CC)(CC)CC": "3", 
+            "CCCC[N+](CCCC)(CCCC)CCCC": "4"
+        },
+        "SFH": {
+            "C[N+]1(C)CCC[C@@H]2CCCC[C@H]2C1": "1", 
+            "NCCCNCCNCCCN": "2", 
+            "C1CN(N2CCNCC2)CCN1": "3"
+        },
+        "SFN": {
+           "C[N+]1(C)CC[C@H]2CCC[C@H]2C1": "1", 
+            "C1CN(N2CCNCC2)CCN1": "2", 
+            "NCCCNCCNCCCN": "3"
+        },
+        "VFI": {
+           "CCCCCCC[N@+]1(C)CC[C@H](CCC[C@H]2CC[N@@+](C)(CCCCCCC)CC2)CC1": "1", 
+            "C[N+]1(CC2CCCCC2)CCC(CCCC2CC[N+](C)(CC3CCCCC3)CC2)CC1": "2", 
+            "C(CCN1CCOCCOCCOCCOCC1)CCN1CCOCCOCCOCCOCC1": "3", 
+            "CCCCCCC[N@+]1(C)CC[C@H](CCC[C@H]2CC[N@+](C)(CCCCCCC)CC2)CC1": "4"
+        },
+            "CTH": {
+            "CCC[N+]1(CCC)CCC([N+]2(CCC)CCCC2)CC1": "1",
+            "C[C@H]1C[N@+]2(CCCC[N@+]34CCN(C[C@@H]3C)[C@H](C)C4)CCN1C[C@@H]2C": "2",
+            "CC[C@H](C)N(CCCCCN([C@H](C)CC)[C@H](C)CC)[C@H](C)CC": "3",
+            "C[C@H]1C[C@@H](C)C[N+]2(CC[N+]3(CC2)C[C@@H](C)C[C@@H](C)C3)C1": "4"
+        },
+        "IRR": {
+            "CC[N+]1(CC)CC[C@@H]2CCCC[C@@H]2CC1": "1", 
+            "CC[N+]1(C2CCCCCCC2)CCCC1": "2"
+        },
+        "ITT": {
+           "C[N+](C)(C)CCCCCC[N+](C)(C)C": "1",
+           "CCCC[N+](CCCC)(CCCC)CCCC": "2",
+            "C[N+]1(C2CCCCCCC2)CCCC1": "3"
+        },
+        "UTL": {
+           "CC[N+]1(CC)C[C@@H](C)CC[C@@H]1C": "1", 
+            "CC(C)[C@H]1CCCC[N+]1(C)C": "2", 
+            "C1CC[C@@H]2[C@@H](C1)CCC[N+]21CCCC1": "3", 
+            "CC[N@@+]1(C)C[C@@H](C)C[C@@H](C)C1": "4", 
+            "CN1CCN(C)CCN(C)CC1": "5", 
+            "CC[N+]1(CC)C[C@H]2[C@H]3C=C[C@H](C3)[C@H]2C1": "6"
+        },
+        "OSO": {
+            "CC[N+]1(C)C[C@@H](C)C[C@@H](C)C1": "1", 
+            "CC[N+]1(CC)CCC[C@H](C)C1": "2", 
+            "CC[N+]1(CC)[C@@H](C)CCC[C@H]1C": "3", 
+            "CC[N+]1(CC)CCCC(C)(C)C1": "4" 
+        }
+    }
+}
