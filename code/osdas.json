@@ -191,7 +191,7 @@
         "AWW": {
             "C1N2CN3CN1CN(C2)C3": "1",
             "N[C@]12C[C@H]3C[C@H](C[C@H](C3)C1)C2": "2",
-            "C1CC2CCC1CNC2": "3",
+            "C1CC2CCC1CNC2": "3"
         },
         "ESV": {
             "[NH3+][C@@H]1CCCC[C@H]1[NH3+]": "1",
