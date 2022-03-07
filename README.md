@@ -16,7 +16,15 @@ numpy
 matplotlib
 ```
 
-These packages can be installed using the [environment.yml](environment.yml) file in this repo and `conda`:
+In addition, the example of the PCA for the molecule requires the following additional packages:
+
+```
+ase
+nglview
+scikit-learn
+```
+
+All these packages can be installed using the [environment.yml](environment.yml) file in this repo and `conda`:
 
 ```
 conda env create -f environment.yml
