@@ -1,0 +1,18 @@
+axes.unicode_minus: False
+axes.titlepad: 8
+axes.titlesize: large
+axes.labelsize: 10
+axes.spines.right: False
+axes.spines.top: False
+
+font.size: 10
+font.family: sans-serif
+
+legend.fontsize: 8
+
+xtick.labelsize: 8
+ytick.labelsize: 8
+
+text.usetex: False
+mathtext.default: regular
+mathtext.fontset: cm
