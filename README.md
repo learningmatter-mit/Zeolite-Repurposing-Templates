@@ -1,5 +1,7 @@
 # Code for: "Repurposing Templates for Zeolite Synthesis from Simulations and Data Mining"
 
+[![DOI](https://zenodo.org/badge/460895147.svg)](https://zenodo.org/badge/latestdoi/460895147)
+
 This repository has the code and data to reproduce all plots from the following paper:
 
 D. Schwalbe-Koda et al. Repurposing Templates for Zeolite Synthesis from Simulations and Data Mining. Under Review (2022).
